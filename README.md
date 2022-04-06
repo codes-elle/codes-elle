@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codes-elle
 - 👀 I’m interested in plants, animals, traveling, writing, and learning. 
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, and Responsive Web Design.
-- 💞️ I’m looking to collaborate on nothing as of yet, but will be soon. 
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, and JavaScript.
+- 💞️ I’m looking to collaborate on projects.  
 - 📫 How to reach me-through here. 
 
 <!---
