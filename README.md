@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mozelle</h1>
-<h3 align="center">A Jr. Front-End Developer from the US.</h3>
+
+![Minimal Aesthetic Business Name Facebook Cover](https://user-images.githubusercontent.com/93220634/178562448-81bd0ceb-70f1-4bd1-beef-b7e7828a6e63.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codes-elle&label=Profile%20views&color=0e75b6&style=flat" alt="codes-elle" /> </p>
 
