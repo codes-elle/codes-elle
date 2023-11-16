@@ -1,31 +1,108 @@
+# Elle Codes
 
-![Minimal Aesthetic Business Name Facebook Cover](https://user-images.githubusercontent.com/93220634/178562448-81bd0ceb-70f1-4bd1-beef-b7e7828a6e63.gif)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ellecodes)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mozellegy)
 
+Passionate about coding and software development. Currently exploring different technologies and expanding my skill set.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codes-elle&label=Profile%20views&color=0e75b6&style=flat" alt="codes-elle" /> </p>
+---
 
-- 🔭 I’m currently working on **A digital clock and calculator app**
+## Overview
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript. I will soon start learning React**
+- 👩‍💻 Active GitHub user and contributor.
+- 🎓 Master's in Cybersecurity and Privacy.
+- 📚 Studying for Network+ exam.
+- 🔒 Skills: Network security, incident response, OSI model, Python programming, JavaScript.
+- 🔑 Certifications: ISC2 Certified in Cybersecurity, Google Cybersecurity.
 
-- 👯 I’m looking to collaborate on **A five-star restaurant project**
+---
 
-- 📝 I regularly play games on [sporcle.com](sporcle.com)
+## GitHub Stats
 
-- 💬 Ask me about **HTML, CSS, and JavaScript. Growing vegetables and anything related to geography.**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellecodes&show_icons=true&count_private=true)
 
-- 📫 How to reach me **Send a message through linkedin.com/in/mozellegy**
+---
 
-- ⚡ Fun fact **I love gardening and especially love growing vegetables.**
+## Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/codes-elle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codes-elle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/mozellegy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mozellegy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18354374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18354374" height="30" width="40" /></a>
-</p>
+### Network Security
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+My knowledge includes:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codes-elle&show_icons=true&locale=en&layout=compact" alt="codes-elle" /></p>
+- Firewall implementation and configuration.
+- Intrusion detection and prevention systems.
+- Secure network architecture design.
+
+### Incident Response
+
+I am skilled in:
+
+- Analyzing security incidents.
+- Conducting incident investigations.
+- Developing incident response plans.
+
+### OSI Model
+
+I have a strong understanding of the OSI model and its protocols, including:
+
+- TCP/IP.
+- HTTP, HTTPS.
+- DNS, DHCP.
+
+### Python Programming
+
+I enjoy working with Python and leveraging its capabilities in:
+
+- Scripting.
+- Web development.
+- Data analysis and manipulation.
+
+### JavaScript
+
+I have experience building dynamic and interactive web applications using JavaScript libraries and frameworks like:
+
+- React
+- Angular
+- Vue.js
+
+---
+
+## Best Projects
+
+Here are some of my best projects:
+
+- [Repository 1](link)
+- [Repository 2](link)
+- [Repository 3](link)
+
+Feel free to explore these repositories to see my coding style and approaches.
+
+---
+
+## Contact
+
+You can connect with me on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mozellegy)
+
+---
+
+## Self-Introduction
+
+I'm Elle, a passionate software developer with a focus on cybersecurity. I started my journey on GitHub in October 2021 and have been an active contributor since then. Although relatively new to the platform, I have already created 26 public repositories, showcasing my dedication to coding and learning.
+
+My interest in software development sparked my decision to pursue a Master's in Cybersecurity and Privacy, where I am currently honing my skills and expanding my knowledge. I am also studying for the Network+ exam to further enhance my understanding of networking concepts.
+
+With a solid foundation in network security, incident response, and understanding of the OSI model, I'm equipped to tackle various challenges in the cybersecurity field. I have hands-on experience with firewall implementation, intrusion detection systems, and secure network architecture design.
+
+Programming is like art to me, allowing me to create innovative solutions and streamline processes. Python has been my go-to language, leveraging its versatility to develop scripts, web applications, and perform data analysis.
+
+JavaScript also holds a special place in my toolbox, enabling me to craft dynamic and interactive web applications. My proficiency extends to popular frameworks like React, Angular, and Vue.js.
+
+I am constantly learning and actively seeking opportunities to deepen my understanding and gain practical experience aligned with my passions. As I embark on this journey, I'm eager to contribute my skills to personal and professional projects and collaborate with like-minded individuals.
+
+Feel free to reach out to me on LinkedIn to connect, collaborate, or discuss exciting prospects in the fascinating world of coding, software development, and cybersecurity.
+
+---
+
+*Note: This README provides a high-level overview and doesn't include specific project details.*
